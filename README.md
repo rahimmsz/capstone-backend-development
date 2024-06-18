@@ -1,11 +1,20 @@
-# Dont forget to npm install and use some your brain with run this project
+1. Clone repositori 
+    ```sh
+    git clone https://github.com/mariaanggelika11/Capstone_Dicoding_Cassava.git
+    ```
 
-## Todo 12/03/2024
+2. Instal Dependensi
+    ```sh
+    cd capstone-backend-development
+    yarn install
+    # OR
+    npm install
+    ```
 
-1. Update Search by UUID
-2. Make sure all this API is working properly
-
-- Order Pemanen
-  Status Approved ada di Pabrik,
-  untuk Logistik perlu memberikan tanggal pada tabel sehingga nanti yang muncul di notifikasi pabrik dan petani order pemanen nomor hp logistik dan data lainnya
-- untuk tabel bisa dijadikan satu saja tapi nanti di frontend dibedakan saja ditampilkan jadi nanti ada notifikasi dan order pemanen
+3. Nyalakan XAMPP dan Import Database nya :
+   [Database (SQL)](https://github.com/mariaanggelika11/Capstone_Dicoding_Cassava/blob/main/cassava.sql)
+ 
+5. Jalankan di lokal
+    ```sh
+    npm run start
+   
