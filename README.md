@@ -1,6 +1,6 @@
 1. Clone repositori 
     ```sh
-    git clone https://github.com/mariaanggelika11/Capstone_Dicoding_Cassava.git
+    git clone https://github.com/rahimmsz/capstone-backend-development.git
     ```
 
 2. Instal Dependensi
@@ -10,7 +10,7 @@
     # OR
     npm install
     ```
-
+    
 3. Nyalakan XAMPP dan Import Database nya :
    [Database (SQL)](https://github.com/mariaanggelika11/Capstone_Dicoding_Cassava/blob/main/cassava.sql)
  
